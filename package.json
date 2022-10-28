@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartekm-dev/nodejs-first-app.git"
+  },
+  "author": "Bartosz M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bartekm-dev/nodejs-first-app/issues"
+  },
+  "homepage": "https://github.com/bartekm-dev/nodejs-first-app#readme"
+}
